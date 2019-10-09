@@ -1,2 +1,2 @@
 # Begineering
-99 Bottles;   Print American Timel;
+99 Bottles;   Print American Time;
