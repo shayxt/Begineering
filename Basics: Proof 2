@@ -1,0 +1,18 @@
+Is every integer either even or odd?
+
+Every "parent" integer n is proceeded by a child integer n+1
+Suppose parent integer n = 0, then its child will be 0+1. 
+
+Let us then assume that this generalisation holds: for every child c in Z such that for every parent n, n is n Z, if  2(n)+ 1 exists, then 2(n) exists. Let us also assume that this
+relationship is somewhat symmetric, such that the converse is true. 2n+1 = c. Then 2n is a parent of c. 
+
+Then (2(n)+1)+1 = c+1.
+c + 1 = 2(n+2) The child of exhibits the similar property of the parent of c.
+These relationships generalises a sequential, alternating property of the integers, so that if we take enough samples over the long run of an infinite number of integers,
+there is a 50% chance that an integer will be either a parent or a child, but certainly not both, because p*c will have the parent property. Except in the absolute, most extreme of cases, 
+a child c cannot be its own parent. 
+
+
+
+
+
