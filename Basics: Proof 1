@@ -1,0 +1,41 @@
+Proof 1
+Assuming that the average case leads to the absolute case:
+For all Z, there is an a in Z such that 0 < a < 1
+
+Testing the Hypothesis
+    Ho There is no integer between 0 and 1  
+    H1 There is an integer between 0 and 1
+
+Proof:
+  Suppose there is a number in a in Z that is also in between 0 and 1. Then means that there is a whole number, a number that is not a fraction in between 0 and 1. This also means that
+  There is a certain distance moveable from 0 and or 1 such that the end point k of that distance is neither a fraction, nor negative. (Given that there is no negative number between 0 and 1)
+  That means there is a non-negative whole number 0+k, or 1-k that is a whole number. 
+  Taking the case that 1-k = a. Then a+k = 1.
+  The problem here is that we are introducing the possibility of another integer, therefore sprouting another problem. But let us plug this hole and assume k itself a fraction,
+  the addition to a of which will still maintain the  property that a is an integer, and the fraction added to it will produce one. There already is the contradiction however that 
+  a+k =1, because a+k should be < 1.
+  lets assume though a fraction 1/j to represent k
+  
+  a +1/j = 1
+  aj+1 = j
+  0 = aj -j+1
+  j = aj+1
+  Testing cases for which the above statement is true:
+  1. j= 0
+  0=0+1 False
+  1 = a(1) +1
+  The only integer that makes the above true is when a = 0. 
+  
+  Therefore from the right side, there are no cases when a fraction is added to a that we get 1. We have found a contradiction. From the right.
+  
+  Taking the case that 0+k = a, from the left. Then  0= a-k
+  Then a = k. 
+  dividing through by a
+  0 < 1 < 1/a
+  The only known case where a !=0 that the above makes sense is when a =1 
+  0 < 1 < 1 is false, therefore, we fail to reject the null hypothesis. 
+  
+  
+  
+
+  
