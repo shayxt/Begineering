@@ -1,0 +1,7 @@
+Solomon Method
+
+//Error Detection
+//For all Z=> 0, an integer a is either even or odd 
+a%2 therefore should yield either 0 or 1
+A Solomon Method is a "primitve" yet intuitive method to check to when a system performs a Type Error (incorrectly rejecting the null), 
+i.e where the system incorrectly identifies/flags a%2 as 0 or 1.
