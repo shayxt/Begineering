@@ -5,3 +5,21 @@ Solomon Method
 a%2 therefore should yield either 0 or 1
 A Solomon Method is a "primitve" yet intuitive method to check to when a system performs a Type Error (incorrectly rejecting the null), 
 i.e where the system incorrectly identifies/flags a%2 as 0 or 1.
+
+Set "is_Mother" intersects with "is_bio_Parent"
+
+bool is_Mother;
+
+if (is_Mother.selfAbort()) {          //is_Mother still in doubt
+    is_Mother = true}
+elseif (is_Mother.otherAbort()){
+    is_Mother = false}
+else
+    //cointoss(n);
+    
+The arguable question here is not whether it is the Judge that gets to decide what a mother is/is not, but how widely the notion of motherly instincts is accepted. 
+The safer base zone is what instinct statistically suggests, and as such again, instinct is closer to a mechanistic process than a "socially agreed upon" construct. 
+Brings to mind a twisting of the question, "Do all mothers who save babies also save themselves". 
+
+Bertrand Russels Paradox
+"The barber cannot shave himself as he only shaves those who do not shave themselves. Thus, if he shaves himself he ceases to be the barber."
