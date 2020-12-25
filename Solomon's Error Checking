@@ -1,4 +1,4 @@
-Solomon Method
+Solomon Method: A Slow But Steady Dive Into Cooperative and Non-Cooperative Games
 
 //Error Detection
 //For all Z=> 0, an integer a is either even or odd 
@@ -12,7 +12,7 @@ bool is_Mother;
 
 if (is_Mother.selfAbort()) {          //is_Mother still in doubt
     is_Mother = true}
-elseif (is_Mother.otherAbort()){
+elseif (is_Mother.otherAbort()){     //s:t otherAbort ~ selfSave
     is_Mother = false}
 else
     //cointoss(n);
