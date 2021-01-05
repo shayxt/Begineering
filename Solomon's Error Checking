@@ -1,5 +1,5 @@
 Solomon Method: A Slow But Steady Dive Into Cooperative and Non-Cooperative Games
-
+Is this a decision problem?
 //Error Detection
 //For all Z=> 0, an integer a is either even or odd 
 a%2 therefore should yield either 0 or 1
