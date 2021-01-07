@@ -1,1 +1,3 @@
-Does Theta Suggest Colinearity of A Problem, and is there a relationship between Colinearity and substructure? What about Scaleability?
+Does Theta Suggest Colinearity of A Problem, and is there a relationship between Colinearity and substructure? 
+let |r|  represent a problem set with elements that have the properties W, V. According to the claim that a problem has optimal substructure iff subproblems have optimal solutions
+
