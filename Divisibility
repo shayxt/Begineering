@@ -1,0 +1,33 @@
+Epps, Susan
+If one positive integer divdes a second positive integer, then the first is less than or equal to the second. 
+The only divisors of 1 are 1 and -1. 
+
+Theorem A
+For all integers a and b, if a and b are positive and a divides b, then a<=b
+Proof
+Given from then above initial statements
+            1 <= k
+b = ak --> b is a multiple of a , e.g if b = 2a, then b is a double of a. For this to be true, a has to be <= b
+
+This relationship therefore holds that a<=ka because a.1 <= a.k,, and ak = b
+So the theorem has been proved. 
+
+
+Theorem B
+For all integers a, b and c, if a divides b, and b divides c, then a divides c
+if a|b, b|c, then a|c
+Proof
+We know that b/a = r, b = ar     //some integer r
+And c/b = s, c = bs              //some integer s
+Then c = ars    //because b = ar
+So c = a(rs), therefore c|a
+
+if d does not divide n, then n/d is not an integer
+
+Theorem C
+if a/b and b/a, then a = b, this is false because -2 and 2 divide each other, but -1 != 1
+
+A prime number is identified by the property that it is not divisible by any integer greater than 1 and less than itself. Given also that prime p is not divisible by any integer 
+greater than itself either. 
+
+
