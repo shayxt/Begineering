@@ -23,3 +23,8 @@ Brings to mind a twisting of the question, "Do all mothers who save babies also 
 
 Bertrand Russels Paradox
 "The barber cannot shave himself as he only shaves those who do not shave themselves. Thus, if he shaves himself he ceases to be the barber."
+
+Updated solution based on complexity: a variable-state barber, such that barber updates it's state when shaving self. A parallel barber (inverted barber) will be required to 
+associate itself with barber, on the condition that barber exists, and barber is variable state. 
+
+SPIDER
