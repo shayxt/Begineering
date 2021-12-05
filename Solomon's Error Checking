@@ -5,7 +5,7 @@ Is this a decision problem?
 a%2 therefore should yield either 0 or 1
 A Solomon Method is a "primitve" yet intuitive method to check to when a system performs a Type Error (incorrectly rejecting the null), 
 i.e where the system incorrectly identifies/flags a%2 as 0 or 1.
-
+//CLASSIC CLASSIFICATION PROBLEM BY THE ARCHITECT
 Set "is_Mother" intersects with "is_bio_Parent"
 
 bool is_Mother;
@@ -17,6 +17,19 @@ elseif (is_Mother.otherAbort()){     //s:t otherAbort ~ selfSave
 else
     //cointoss(n);
     
+def selfAbort()
+{
+X = getisMother();
+
+if (isMother)
+w = opportunityCost.weigh();
+#isminsup?
+if w => left tail
+return true;
+else
+check.next();
+
+}
 The arguable question here is not whether it is the Judge that gets to decide what a mother is/is not, but how widely the notion of motherly instincts is accepted. 
 The safer base zone is what instinct statistically suggests, and as such again, instinct is closer to a mechanistic process than a "socially agreed upon" construct. 
 Brings to mind a twisting of the question, "Do all mothers who save babies also save themselves". 
